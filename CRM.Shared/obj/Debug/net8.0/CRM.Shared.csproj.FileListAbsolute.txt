@@ -1,0 +1,11 @@
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\bin\Debug\net8.0\CRM.Shared.deps.json
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\bin\Debug\net8.0\CRM.Shared.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\bin\Debug\net8.0\CRM.Shared.pdb
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\CRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\CRM.Shared.AssemblyInfoInputs.cache
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\CRM.Shared.AssemblyInfo.cs
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\CRM.Shared.csproj.CoreCompileInputs.cache
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\CRM.Shared.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\refint\CRM.Shared.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\CRM.Shared.pdb
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\ref\CRM.Shared.dll

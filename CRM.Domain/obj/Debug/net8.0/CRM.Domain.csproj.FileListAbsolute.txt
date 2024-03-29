@@ -1,0 +1,17 @@
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\bin\Debug\net8.0\CRM.Domain.deps.json
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\bin\Debug\net8.0\CRM.Domain.runtimeconfig.json
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\bin\Debug\net8.0\CRM.Domain.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\bin\Debug\net8.0\CRM.Domain.pdb
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.AssemblyReference.cache
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.AssemblyInfoInputs.cache
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.AssemblyInfo.cs
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.CoreCompileInputs.cache
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\refint\CRM.Domain.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.pdb
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.genruntimeconfig.cache
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\ref\CRM.Domain.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\bin\Debug\net8.0\CRM.Shared.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\bin\Debug\net8.0\CRM.Shared.pdb
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.CopyComplete
