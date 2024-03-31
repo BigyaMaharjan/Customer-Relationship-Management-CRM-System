@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d56cc71e0247c86b03d764a706692d78165c7583")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+310cfe655109025b0d21f1715bfff9a62697ff1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
