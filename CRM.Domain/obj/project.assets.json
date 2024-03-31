@@ -4123,23 +4123,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Legion\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj",
       "projectName": "CRM.Domain",
-      "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj",
+      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4148,14 +4148,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\CRM.Shared.csproj": {
-              "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\CRM.Shared.csproj"
+            "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj": {
+              "projectPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj"
             }
           }
         }
@@ -4164,6 +4165,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4207,7 +4213,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
