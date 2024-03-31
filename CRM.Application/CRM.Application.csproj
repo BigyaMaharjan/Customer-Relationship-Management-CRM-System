@@ -26,7 +26,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\LeadDto\" />
     <Folder Include="DTOs\UserDto\" />
     <Folder Include="DTOs\RoleDto\" />
   </ItemGroup>
