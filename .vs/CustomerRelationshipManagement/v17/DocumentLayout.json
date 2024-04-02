@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5671311D-5A20-4C20-949C-F89751821C84}|CRM.Persistence\\CRM.Persistence.csproj|c:\\users\\legion\\desktop\\customer-relationship-management-crm-system\\crm.persistence\\services\\opportunityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5671311D-5A20-4C20-949C-F89751821C84}|CRM.Persistence\\CRM.Persistence.csproj|solutionrelative:crm.persistence\\services\\opportunityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|c:\\users\\legion\\desktop\\customer-relationship-management-crm-system\\crm.application\\persistence\\igeneralcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|solutionrelative:crm.application\\persistence\\igeneralcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,6 +67,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OpportunityService.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\Services\\OpportunityService.cs",
+              "RelativeDocumentMoniker": "CRM.Persistence\\Services\\OpportunityService.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\Services\\OpportunityService.cs",
+              "RelativeToolTip": "CRM.Persistence\\Services\\OpportunityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T05:40:15.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IGeneralCrudService.cs",
               "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Persistence\\IGeneralCrudService.cs",
               "RelativeDocumentMoniker": "CRM.Application\\Persistence\\IGeneralCrudService.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LeadGetDto.cs",
               "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadGetDto.cs",
               "RelativeDocumentMoniker": "CRM.Application\\DTOs\\LeadDto\\LeadGetDto.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LeadCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadCreateDto.cs",
               "RelativeDocumentMoniker": "CRM.Application\\DTOs\\LeadDto\\LeadCreateDto.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.API\\appsettings.json",
               "RelativeDocumentMoniker": "CRM.API\\appsettings.json",
