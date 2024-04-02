@@ -33,3 +33,4 @@ C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\refint\CRM.Shared.dll
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.pdb
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\ref\CRM.Shared.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.csproj.AssemblyReference.cache

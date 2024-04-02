@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aI5M7V8nAwvnO13DLo0HzISbEb7U3wHk+wNIFGo0cPp3DI+EvfuPHGnq/0TJ1cd/W3MKrFM8PfCqfpvw3jIwJQ==",
+  "dgSpecHash": "tYZUrymUOUEkqBzkQw+8FdIIe0dGznfaDgAAbvp9bxNOrfw+Hmk25UySBPthlmwBKDAQ1Epl6sSI0kqiGxgPmA==",
   "success": true,
   "projectFilePath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\poude_9elal6v\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\poude_9elal6v\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\poude_9elal6v\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\poude_9elal6v\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

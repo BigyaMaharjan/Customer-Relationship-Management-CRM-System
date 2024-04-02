@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Gey3lqnsV/hVV0lh508dDkjSiU2uXUS1v6mciJP27el201LOUtcpEreYPaulj0rryIVUhrW3Y7gPTrWyHPMp7Q==",
+  "dgSpecHash": "zry8JwUmLDN+8IrTbq2R/KxXW+1mP+84E/eUM5tomMx0J32HLJ4CG2kxsxNUcybm6532NWfGt7ue6e+v17WGDA==",
   "success": true,
   "projectFilePath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\poude_9elal6v\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\poude_9elal6v\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\poude_9elal6v\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\poude_9elal6v\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

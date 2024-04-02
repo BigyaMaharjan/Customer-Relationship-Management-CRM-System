@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.API", "CRM.API\CRM.API.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.Persistence", "CRM.Persistence\CRM.Persistence.csproj", "{5671311D-5A20-4C20-949C-F89751821C84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.Shared", "CRM.Shared\CRM.Shared.csproj", "{4C8AE850-9264-4D96-9DF6-5350C316C197}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.Shared", "CRM.Shared\CRM.Shared.csproj", "{4C8AE850-9264-4D96-9DF6-5350C316C197}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
