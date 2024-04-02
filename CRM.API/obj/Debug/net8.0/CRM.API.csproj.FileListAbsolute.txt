@@ -429,3 +429,4 @@ C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\obj\De
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\obj\Debug\net8.0\CRM.API.pdb
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\obj\Debug\net8.0\CRM.API.genruntimeconfig.cache
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\obj\Debug\net8.0\ref\CRM.API.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\bin\Debug\net8.0\AutoMapper.dll
