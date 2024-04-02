@@ -4635,24 +4635,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Legion\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\poude_9elal6v\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj",
+      "projectUniqueName": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj",
       "projectName": "CRM.Application",
-      "projectPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj",
-      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\obj\\",
+      "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj",
+      "packagesPath": "C:\\Users\\poude_9elal6v\\.nuget\\packages\\",
+      "outputPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\poude_9elal6v\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4660,21 +4655,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj": {
-              "projectPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj"
+            "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj": {
+              "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj"
             },
-            "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj": {
-              "projectPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj"
+            "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj": {
+              "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj"
             },
-            "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj"
+            "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj": {
+              "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj"
             }
           }
         }
@@ -4683,11 +4677,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4731,7 +4720,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
