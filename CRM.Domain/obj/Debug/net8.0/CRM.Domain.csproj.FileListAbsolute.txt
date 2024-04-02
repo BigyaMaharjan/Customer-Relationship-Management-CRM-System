@@ -15,3 +15,39 @@ D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\ref\CR
 D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\bin\Debug\net8.0\CRM.Shared.dll
 D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\bin\Debug\net8.0\CRM.Shared.pdb
 D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.CopyComplete
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Domain.deps.json
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Domain.runtimeconfig.json
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Domain.dll
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Domain.pdb
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Shared.dll
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Shared.pdb
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.AssemblyInfo.cs
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.sourcelink.json
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.Up2Date
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.dll
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\refint\CRM.Domain.dll
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.pdb
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.genruntimeconfig.cache
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\ref\CRM.Domain.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Domain.deps.json
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Domain.runtimeconfig.json
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Domain.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Domain.pdb
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Shared.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\bin\Debug\net8.0\CRM.Shared.pdb
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.AssemblyReference.cache
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.AssemblyInfoInputs.cache
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.AssemblyInfo.cs
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.CoreCompileInputs.cache
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.sourcelink.json
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.csproj.CopyComplete
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\refint\CRM.Domain.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.pdb
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.genruntimeconfig.cache
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\ref\CRM.Domain.dll

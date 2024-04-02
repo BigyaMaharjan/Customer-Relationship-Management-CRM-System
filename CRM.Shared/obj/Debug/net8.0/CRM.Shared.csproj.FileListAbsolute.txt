@@ -9,3 +9,27 @@ D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\CRM.Sh
 D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\refint\CRM.Shared.dll
 D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\CRM.Shared.pdb
 D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\ref\CRM.Shared.dll
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\bin\Debug\net8.0\CRM.Shared.deps.json
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\bin\Debug\net8.0\CRM.Shared.dll
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\bin\Debug\net8.0\CRM.Shared.pdb
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.AssemblyInfo.cs
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.sourcelink.json
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.dll
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\refint\CRM.Shared.dll
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.pdb
+C:\Users\Legion\Desktop\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\ref\CRM.Shared.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\bin\Debug\net8.0\CRM.Shared.deps.json
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\bin\Debug\net8.0\CRM.Shared.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\bin\Debug\net8.0\CRM.Shared.pdb
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.AssemblyInfoInputs.cache
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.AssemblyInfo.cs
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.csproj.CoreCompileInputs.cache
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.sourcelink.json
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\refint\CRM.Shared.dll
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.pdb
+C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\ref\CRM.Shared.dll

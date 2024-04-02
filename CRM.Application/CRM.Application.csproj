@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
@@ -23,6 +23,11 @@
     <ProjectReference Include="..\CRM.API\CRM.API.csproj" />
     <ProjectReference Include="..\CRM.Domain\CRM.Domain.csproj" />
     <ProjectReference Include="..\CRM.Persistence\CRM.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\UserDto\" />
+    <Folder Include="DTOs\RoleDto\" />
   </ItemGroup>
 
 </Project>
