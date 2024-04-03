@@ -10,6 +10,7 @@ namespace CRM.Application.Persistence
 {
     public interface ILeadService : IGeneralCrudService<Lead,LeadCreateDto,LeadGetDto>
     {
-        Task AssigntoSalesRepresentative(int LeadId, int UserId);
+        Task AssignToSalesRepresentative(AssignSalesRepresentativeDto dto);
+        Task UpdateLeadStatus(UpdateLeadStatusDto dto);
     }
 }
