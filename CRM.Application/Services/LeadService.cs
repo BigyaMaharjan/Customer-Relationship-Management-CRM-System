@@ -1,39 +1,89 @@
-﻿using CRM.Application.DTOs.LeadDto;
+﻿using AutoMapper;
+using CRM.Application.DTOs.LeadDto;
 using CRM.Application.Persistence;
 using CRM.Domain.Entities;
+using CRM.Persistence.DbContexts;
+using Microsoft.EntityFrameworkCore;
 
 namespace CRM.Application.Services
 {
     public class LeadService : ILeadService
     {
-        public Task<LeadGetDto> AddAsync(LeadCreateDto createDto)
+        private readonly  CRMDbContext _dbContext;
+        private readonly  IMapper _mapper;
+        public async Task<LeadGetDto> AddAsync(LeadCreateDto createDto)
         {
-            throw new NotImplementedException();
+            var lead =_mapper.Map<Lead>(createDto);
+            _dbContext.Leads.Add(lead);
+            await _dbContext.SaveChangesAsync();
+            return _mapper.Map<LeadGetDto>(lead);
         }
 
-        public Task AssigntoSalesRepresentative(int LeadId, int UserId)
+        public async Task AssignToSalesRepresentative(AssignSalesRepresentativeDto dto)
         {
-            throw new NotImplementedException();
+            var lead = await _dbContext.Leads.SingleOrDefaultAsync(l => l.Id == dto.LeadId);
+            if (lead != null)
+            {
+                _mapper.Map(dto, lead);
+                await _dbContext.SaveChangesAsync();
+            }
+            else
+            {
+                throw new Exception("Lead not found");
+            }
         }
 
-        public Task DeleteAsync(int id)
+
+        public async Task DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            var lead=await _dbContext.Leads.FindAsync(id);
+            if (lead == null)
+            {
+                throw new Exception("Lead is not Found");
+            }
+            _dbContext.Leads.Remove(lead);
+            await _dbContext.SaveChangesAsync();    
         }
 
-        public Task<IEnumerable<LeadGetDto>> GetAllAsync()
+        public async Task<IEnumerable<LeadGetDto>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            var leads=await _dbContext.Leads.ToListAsync();
+            return _mapper.Map<IEnumerable<LeadGetDto>>(leads);
         }
 
-        public Task<LeadGetDto> GetByIdAsync(int id)
+        public async Task<LeadGetDto> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var lead = await _dbContext.Leads.FindAsync(id);
+            if (lead == null)
+            {
+                throw new Exception($"No Lead with the  given {id}");
+            }
+            return _mapper.Map<LeadGetDto>(lead);
         }
 
-        public Task<LeadGetDto> UpdateAsync(int id, LeadCreateDto updateDto)
+        public async Task<LeadGetDto> UpdateAsync(int id, LeadCreateDto updateDto)
         {
-            throw new NotImplementedException();
+            var lead = await _dbContext.Leads.FindAsync( id);
+            if (lead == null)
+            {
+                throw new Exception($"No Lead with the  given {id}");
+            }
+            _mapper.Map(updateDto,lead);
+            await _dbContext.SaveChangesAsync();
+            return _mapper.Map<LeadGetDto>(lead);
+        }
+
+        public async Task UpdateLeadStatus(UpdateLeadStatusDto dto)
+        {
+            var lead = await _dbContext.Leads.SingleOrDefaultAsync(l => l.Id == dto.LeadId);
+
+            if (lead == null)
+            {
+                throw new Exception("Lead not found.");
+            }
+
+            _mapper.Map(dto, lead);
+            await _dbContext.SaveChangesAsync();
         }
     }
 }
