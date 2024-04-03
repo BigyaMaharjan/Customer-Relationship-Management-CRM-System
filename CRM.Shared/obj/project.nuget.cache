@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3u/zh1fUEWHdlIYewq75uyfFT4Ad8xAA+AIpB/PD7T3cno6UMR/QqBEcD5LFHF/i+uXu0BjwJGQd6fdSJIObTQ==",
+  "dgSpecHash": "Z3CHSLm+gNXnjlaJAadvW19TmInqeMbLSYDOLpJABq+EJQchsldIVr1RkSkdZ97fR0htv/CUYfhCFCoM2gLyaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poude_9elal6v\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\poude_9elal6v\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\poude_9elal6v\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\poude_9elal6v\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\poude_9elal6v\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
