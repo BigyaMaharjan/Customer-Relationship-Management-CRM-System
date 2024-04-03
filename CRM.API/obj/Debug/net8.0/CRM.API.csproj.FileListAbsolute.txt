@@ -429,4 +429,8 @@ C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\obj\De
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\obj\Debug\net8.0\CRM.API.pdb
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\obj\Debug\net8.0\CRM.API.genruntimeconfig.cache
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\obj\Debug\net8.0\ref\CRM.API.dll
+<<<<<<< HEAD
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.API\obj\Debug\net8.0\CRM.API.sourcelink.json
+=======
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.API\bin\Debug\net8.0\AutoMapper.dll
+>>>>>>> 39506833838ddbb1e5bfd3288d749740f678ea17

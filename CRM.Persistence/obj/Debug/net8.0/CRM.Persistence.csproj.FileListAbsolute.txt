@@ -57,3 +57,4 @@ C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Persistenc
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Persistence\obj\Debug\net8.0\CRM.Persistence.pdb
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Persistence\obj\Debug\net8.0\CRM.Persistence.genruntimeconfig.cache
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Persistence\obj\Debug\net8.0\ref\CRM.Persistence.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Persistence\obj\Debug\net8.0\CRM.Persistence.sourcelink.json

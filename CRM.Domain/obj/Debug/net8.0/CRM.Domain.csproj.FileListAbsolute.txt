@@ -51,3 +51,4 @@ C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.pdb
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\CRM.Domain.genruntimeconfig.cache
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Domain\obj\Debug\net8.0\ref\CRM.Domain.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Domain\obj\Debug\net8.0\CRM.Domain.sourcelink.json

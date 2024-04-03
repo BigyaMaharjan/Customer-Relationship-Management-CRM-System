@@ -26,4 +26,9 @@
     <ProjectReference Include="..\CRM.Persistence\CRM.Persistence.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ApiCodes\Implementation\" />
+    <Folder Include="ApiCodes\Services\" />
+  </ItemGroup>
+
 </Project>

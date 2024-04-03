@@ -84,3 +84,4 @@ C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Applicatio
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Application\obj\Debug\net8.0\CRM.Application.pdb
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Application\obj\Debug\net8.0\CRM.Application.genruntimeconfig.cache
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Application\obj\Debug\net8.0\ref\CRM.Application.dll
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Application\obj\Debug\net8.0\CRM.Application.sourcelink.json

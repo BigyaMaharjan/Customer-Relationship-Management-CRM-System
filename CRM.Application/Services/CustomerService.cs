@@ -1,39 +1,58 @@
-﻿using CRM.Application.DTOs.CustomerDto;
-using CRM.Application.Persistence;
-using CRM.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace CRM.Application.Services
 {
-    public class CustomerService : IGeneralCrudService<Customer, CustomerCreateDto, leadGetDto>
+    public class CustomerService : IGeneralCrudService<Customer, CustomerCreateDto, CustomerGetDto>
     {
-        public Task<leadGetDto> AddAsync(CustomerCreateDto createDto)
+        private readonly CRMDbContext _dbContext;
+        private readonly IMapper _mapper;
+
+        public async Task<CustomerGetDto> AddAsync(CustomerCreateDto createDto)
         {
-            throw new NotImplementedException();
+            var customer = _mapper.Map<Customer>(createDto);
+            _dbContext.Customers.Add(customer);
+            await _dbContext.SaveChangesAsync();
+            return _mapper.Map<CustomerGetDto>(customer);
+
         }
 
-        public Task DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            var customer = await _dbContext.Customers.FindAsync(id);
+            if (customer == null)
+            {
+                throw new Exception("Customer is not found");
+            }
+            _dbContext.Customers.Remove(customer);
+            await _dbContext.SaveChangesAsync();
         }
 
-        public Task<IEnumerable<leadGetDto>> GetAllAsync()
+        public async Task<IEnumerable<CustomerGetDto>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            var customers = await _dbContext.Customers.ToListAsync();
+            return _mapper.Map<IEnumerable<CustomerGetDto>>(customers);
         }
 
-        public Task<leadGetDto> GetByIdAsync(int id)
+        public async Task<CustomerGetDto> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var customer = await _dbContext.Customers.FindAsync(id);
+            if (customer == null)
+            {
+                throw new Exception($"No Customer with given {id}");
+            }
+            return _mapper.Map<CustomerGetDto>(customer);
         }
 
-        public Task<leadGetDto> UpdateAsync(int id, CustomerCreateDto updateDto)
+        public async Task<CustomerGetDto> UpdateAsync(int id, CustomerCreateDto updateDto)
         {
-            throw new NotImplementedException();
+            var customer = await _dbContext.Customers.FindAsync(id);
+            if (customer == null)
+            {
+                throw new Exception($"No Customer with given {id}");
+            }
+            _mapper.Map(updateDto, customer);
+            await _dbContext.SaveChangesAsync();
+            return _mapper.Map<CustomerGetDto>(customer);
         }
     }
 }

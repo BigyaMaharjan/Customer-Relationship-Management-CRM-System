@@ -1,0 +1,10 @@
+﻿global using AutoMapper;
+global using CRM.Application.DTOs.CustomerDto;
+global using CRM.Application.DTOs.LeadDto;
+global using CRM.Application.DTOs.OpportunityDto;
+global using CRM.Application.DTOs.RoleDto;
+global using CRM.Application.DTOs.UserDto;
+global using CRM.Application.Persistence;
+global using CRM.Domain.Entities;
+global using CRM.Persistence.DbContexts;
+global using Microsoft.EntityFrameworkCore;

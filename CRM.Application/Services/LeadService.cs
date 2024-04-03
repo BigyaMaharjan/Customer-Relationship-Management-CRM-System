@@ -1,19 +1,13 @@
-﻿using AutoMapper;
-using CRM.Application.DTOs.LeadDto;
-using CRM.Application.Persistence;
-using CRM.Domain.Entities;
-using CRM.Persistence.DbContexts;
-using Microsoft.EntityFrameworkCore;
-
+﻿
 namespace CRM.Application.Services
 {
     public class LeadService : ILeadService
     {
-        private readonly  CRMDbContext _dbContext;
-        private readonly  IMapper _mapper;
+        private readonly CRMDbContext _dbContext;
+        private readonly IMapper _mapper;
         public async Task<LeadGetDto> AddAsync(LeadCreateDto createDto)
         {
-            var lead =_mapper.Map<Lead>(createDto);
+            var lead = _mapper.Map<Lead>(createDto);
             _dbContext.Leads.Add(lead);
             await _dbContext.SaveChangesAsync();
             return _mapper.Map<LeadGetDto>(lead);
@@ -36,18 +30,18 @@ namespace CRM.Application.Services
 
         public async Task DeleteAsync(int id)
         {
-            var lead=await _dbContext.Leads.FindAsync(id);
+            var lead = await _dbContext.Leads.FindAsync(id);
             if (lead == null)
             {
                 throw new Exception("Lead is not Found");
             }
             _dbContext.Leads.Remove(lead);
-            await _dbContext.SaveChangesAsync();    
+            await _dbContext.SaveChangesAsync();
         }
 
         public async Task<IEnumerable<LeadGetDto>> GetAllAsync()
         {
-            var leads=await _dbContext.Leads.ToListAsync();
+            var leads = await _dbContext.Leads.ToListAsync();
             return _mapper.Map<IEnumerable<LeadGetDto>>(leads);
         }
 
@@ -63,12 +57,12 @@ namespace CRM.Application.Services
 
         public async Task<LeadGetDto> UpdateAsync(int id, LeadCreateDto updateDto)
         {
-            var lead = await _dbContext.Leads.FindAsync( id);
+            var lead = await _dbContext.Leads.FindAsync(id);
             if (lead == null)
             {
                 throw new Exception($"No Lead with the  given {id}");
             }
-            _mapper.Map(updateDto,lead);
+            _mapper.Map(updateDto, lead);
             await _dbContext.SaveChangesAsync();
             return _mapper.Map<LeadGetDto>(lead);
         }

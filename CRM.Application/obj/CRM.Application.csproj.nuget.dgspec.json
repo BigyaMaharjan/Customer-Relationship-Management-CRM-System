@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj": {}
+    "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Application\\CRM.Application.csproj": {}
   },
   "projects": {
-    "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj": {
+    "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.API\\CRM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj",
+        "projectUniqueName": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.API\\CRM.API.csproj",
         "projectName": "CRM.API",
-        "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj",
-        "packagesPath": "C:\\Users\\poude_9elal6v\\.nuget\\packages\\",
-        "outputPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.API\\obj\\",
+        "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.API\\CRM.API.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\poude_9elal6v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj": {
-                "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj"
+              "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\CRM.Persistence.csproj": {
+                "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\CRM.Persistence.csproj"
               }
             }
           }
@@ -96,21 +100,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj": {
+    "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Application\\CRM.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj",
+        "projectUniqueName": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Application\\CRM.Application.csproj",
         "projectName": "CRM.Application",
-        "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj",
-        "packagesPath": "C:\\Users\\poude_9elal6v\\.nuget\\packages\\",
-        "outputPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Application\\obj\\",
+        "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Application\\CRM.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\poude_9elal6v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,14 +132,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj": {
-                "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj"
+              "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.API\\CRM.API.csproj": {
+                "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.API\\CRM.API.csproj"
               },
-              "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj": {
-                "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj"
+              "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj": {
+                "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj"
               },
-              "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj": {
-                "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj"
+              "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\CRM.Persistence.csproj": {
+                "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\CRM.Persistence.csproj"
               }
             }
           }
@@ -187,21 +195,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj": {
+    "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj",
+        "projectUniqueName": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj",
         "projectName": "CRM.Domain",
-        "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj",
-        "packagesPath": "C:\\Users\\poude_9elal6v\\.nuget\\packages\\",
-        "outputPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\obj\\",
+        "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\poude_9elal6v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,8 +227,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj": {
-                "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj"
+              "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\CRM.Shared.csproj": {
+                "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\CRM.Shared.csproj"
               }
             }
           }
@@ -272,21 +284,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj": {
+    "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\CRM.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj",
+        "projectUniqueName": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\CRM.Persistence.csproj",
         "projectName": "CRM.Persistence",
-        "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj",
-        "packagesPath": "C:\\Users\\poude_9elal6v\\.nuget\\packages\\",
-        "outputPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\obj\\",
+        "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\CRM.Persistence.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\poude_9elal6v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -300,8 +316,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj": {
-                "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj"
+              "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj": {
+                "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj"
               }
             }
           }
@@ -357,21 +373,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj": {
+    "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\CRM.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj",
+        "projectUniqueName": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\CRM.Shared.csproj",
         "projectName": "CRM.Shared",
-        "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj",
-        "packagesPath": "C:\\Users\\poude_9elal6v\\.nuget\\packages\\",
-        "outputPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\obj\\",
+        "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\CRM.Shared.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\poude_9elal6v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -418,7 +438,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

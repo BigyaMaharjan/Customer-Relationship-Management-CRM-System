@@ -33,4 +33,8 @@ C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\refint\CRM.Shared.dll
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.pdb
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\ref\CRM.Shared.dll
+<<<<<<< HEAD
+D:\MY FILES\c#\CustomerRelationshipManagement\CRM.Shared\obj\Debug\net8.0\CRM.Shared.sourcelink.json
+=======
 C:\FinalINternProject\Customer-Relationship-Management-CRM-System\CRM.Shared\obj\Debug\net8.0\CRM.Shared.csproj.AssemblyReference.cache
+>>>>>>> 39506833838ddbb1e5bfd3288d749740f678ea17

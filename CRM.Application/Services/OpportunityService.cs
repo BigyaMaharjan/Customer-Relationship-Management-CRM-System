@@ -1,11 +1,4 @@
-﻿using CRM.Application.DTOs.OpportunityDto;
-using CRM.Application.Persistence;
-using CRM.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace CRM.Application.Services
 {
