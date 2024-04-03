@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4D4kvDZxVHnM0BbyOkpU4B9+Gcih9YeRrPJk0RYwygpBNcoC+GNCc8XJMBpoQuu+IxHHZNYLlrJIgalCBO9WxQ==",
+  "dgSpecHash": "Y995pgRr8jsxgflzdoLaTWBsvKvi8QuE1qo0TTwLKzB/zreiHChHRQyN0Vu/c4U6xSvAAw6oD8CO80s099SOnQ==",
   "success": true,
   "projectFilePath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -81,5 +82,12 @@
     "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -1,9 +1,10 @@
-﻿using CRM.Domain.Entities;
+﻿
 
 namespace CRM.Application.DTOs.LeadDto
 {
     public class LeadGetDto
     {
+        public int Id { get; set; }
         public int CustomerId { get; set; }
 
         public Customer Customer { get; set; }

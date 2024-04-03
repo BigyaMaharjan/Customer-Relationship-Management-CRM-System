@@ -1,5 +1,4 @@
-﻿using CRM.Domain.Entities;
-
+﻿
 namespace CRM.Application.DTOs.OpportunityDto
 {
     public class OpportunityCreateDto
