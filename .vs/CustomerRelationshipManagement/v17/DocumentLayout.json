@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|solutionrelative:crm.application\\services\\opportunityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|c:\\users\\legion\\desktop\\internship\\customer-relationship-management-crm-system\\crm.application\\persistence\\igeneralcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\crm.application\\persistence\\igeneralcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|solutionrelative:crm.application\\persistence\\igeneralcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OpportunityService.cs",
-              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Services\\OpportunityService.cs",
-              "RelativeDocumentMoniker": "CRM.Application\\Services\\OpportunityService.cs",
-              "ToolTip": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Services\\OpportunityService.cs",
-              "RelativeToolTip": "CRM.Application\\Services\\OpportunityService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:44:02.057Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -83,6 +70,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpportunityService.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Services\\OpportunityService.cs",
+              "RelativeDocumentMoniker": "CRM.Application\\Services\\OpportunityService.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Services\\OpportunityService.cs",
+              "RelativeToolTip": "CRM.Application\\Services\\OpportunityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:44:02.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IGeneralCrudService.cs",
               "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Persistence\\IGeneralCrudService.cs",
@@ -91,8 +91,7 @@
               "RelativeToolTip": "CRM.Application\\Persistence\\IGeneralCrudService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T05:21:20.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T05:21:20.854Z"
             },
             {
               "$type": "Document",
