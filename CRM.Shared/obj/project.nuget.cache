@@ -1,21 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "l3GwaypRIzfgtD/ZnocR6gyFD6gNbVhpsST/M+LwfjPcQ0fjPB29DtHlZUEl2VMTgf4hKQfJQxGvoE0DyBRy3A==",
+  "dgSpecHash": "CA1XaZ4mxFxCRwD82f7SCuTZs+U0WqwlkAQZHfImGbJDMap3mMItjbTejpSN80Tc4AsxEX4n4hm0k1T/f6glBA==",
   "success": true,
-  "projectFilePath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\CRM.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Legion\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Shared\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
