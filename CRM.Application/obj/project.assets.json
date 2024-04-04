@@ -4673,23 +4673,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Legion\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Application\\CRM.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj",
       "projectName": "CRM.Application",
-      "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Application\\CRM.Application.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Application\\obj\\",
+      "projectPath": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\CRM.Application.csproj",
+      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4698,20 +4698,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.API\\CRM.API.csproj": {
-              "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.API\\CRM.API.csproj"
+            "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj": {
+              "projectPath": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.API\\CRM.API.csproj"
             },
-            "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj": {
-              "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Domain\\CRM.Domain.csproj"
+            "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj": {
+              "projectPath": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Domain\\CRM.Domain.csproj"
             },
-            "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\CRM.Persistence.csproj": {
-              "projectPath": "D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Persistence\\CRM.Persistence.csproj"
+            "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Persistence\\CRM.Persistence.csproj"
             }
           }
         }
@@ -4720,6 +4721,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4767,16 +4773,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\MY FILES\\c#\\CustomerRelationshipManagement\\CRM.Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
