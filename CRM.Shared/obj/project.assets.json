@@ -207,24 +207,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Legion\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\poude_9elal6v\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj",
+      "projectUniqueName": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj",
       "projectName": "CRM.Shared",
-      "projectPath": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj",
-      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\obj\\",
+      "projectPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\CRM.Shared.csproj",
+      "packagesPath": "C:\\Users\\poude_9elal6v\\.nuget\\packages\\",
+      "outputPath": "C:\\FinalINternProject\\Customer-Relationship-Management-CRM-System\\CRM.Shared\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\poude_9elal6v\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -232,7 +227,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -245,11 +239,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -277,7 +266,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
