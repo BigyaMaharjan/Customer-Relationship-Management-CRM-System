@@ -1,36 +1,72 @@
 ﻿
+using CRM.Application.DTOs.UserDto;
+
 namespace CRM.Application.Services
 {
     public class UserService : IUserService
     {
-        public Task<UserGetDto> AddAsync(UserCreateDto createDto)
+        private readonly CRMDbContext _dbContext;
+        private readonly IMapper _mapper; 
+        public async Task<UserGetDto> AddAsync(UserCreateDto createDto)
         {
-            throw new NotImplementedException();
+            var user = _mapper.Map<User>(createDto);
+            _dbContext.Users.Add(user);
+            await _dbContext.SaveChangesAsync();
+            return _mapper.Map<UserGetDto>(user);
         }
 
-        public Task AssignRoleToUser(int UserId, int RoleId)
+        public async Task AssignRoleToUser(AssignRoleToUserDto dto)
         {
-            throw new NotImplementedException();
+            var user = await _dbContext.Users.SingleOrDefaultAsync(u => u.Id == dto.UserID);
+            if (user != null)
+            {
+                _mapper.Map(dto, user);
+                await _dbContext.SaveChangesAsync();    
+            }
+            else
+            {
+                throw new Exception("User not Found");
+            }
+            
         }
 
-        public Task DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            var user=await _dbContext.Users.FindAsync(id);
+            if (user == null)
+            {
+                throw new Exception("User not found");
+            }
+            _dbContext.Users.Remove(user);  
+            await _dbContext.SaveChangesAsync();    
         }
 
-        public Task<IEnumerable<UserGetDto>> GetAllAsync()
+        public async Task<IEnumerable<UserGetDto>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            var users = await _dbContext.Users.ToListAsync();
+            return _mapper.Map<IEnumerable<UserGetDto>>(users);
         }
 
-        public Task<UserGetDto> GetByIdAsync(int id)
+        public async Task<UserGetDto> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var user = await _dbContext.Users.FindAsync(id);
+            if (user == null) 
+            {
+                throw new Exception($"No User with the given {id}");
+            }
+            return _mapper.Map<UserGetDto>(user);
         }
 
-        public Task<UserGetDto> UpdateAsync(int id, UserCreateDto updateDto)
+        public async Task<UserGetDto> UpdateAsync(int id, UserCreateDto updateDto)
         {
-            throw new NotImplementedException();
-        }
+            var user = await _dbContext.Users.FindAsync(id);
+            if (user == null)
+            {
+                throw new Exception($"No  user with the given {id}");
+            }
+            _mapper.Map(updateDto, user);
+            await _dbContext.SaveChangesAsync();
+            return _mapper.Map<UserGetDto>(user);
+        } 
     }
 }
