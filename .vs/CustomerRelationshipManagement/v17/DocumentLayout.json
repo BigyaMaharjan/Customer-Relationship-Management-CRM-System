@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\",
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|c:\\users\\legion\\desktop\\customer-relationship-management-crm-system\\crm.application\\persistence\\igeneralcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|c:\\users\\legion\\desktop\\internship\\customer-relationship-management-crm-system\\crm.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|solutionrelative:crm.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|c:\\users\\legion\\desktop\\internship\\customer-relationship-management-crm-system\\crm.application\\services\\opportunityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|solutionrelative:crm.application\\services\\opportunityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\crm.application\\persistence\\igeneralcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|solutionrelative:crm.application\\persistence\\igeneralcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\crm.application\\dtos\\leaddto\\leadgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\crm.application\\dtos\\leaddto\\leadgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|solutionrelative:crm.application\\dtos\\leaddto\\leadgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\crm.application\\dtos\\leaddto\\leadcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\crm.application\\dtos\\leaddto\\leadcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FDEC0B7-C660-4DC3-BA3A-2FE265871337}|CRM.Application\\CRM.Application.csproj|solutionrelative:crm.application\\dtos\\leaddto\\leadcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59EF7989-A5B0-4E43-9D2D-B95D52F80152}|CRM.API\\CRM.API.csproj|C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\crm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{59EF7989-A5B0-4E43-9D2D-B95D52F80152}|CRM.API\\CRM.API.csproj|C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\crm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{59EF7989-A5B0-4E43-9D2D-B95D52F80152}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -26,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "CRM.Application\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Services\\RoleService.cs",
+              "RelativeToolTip": "CRM.Application\\Services\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T06:37:46.63Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -61,41 +82,53 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IGeneralCrudService.cs",
-              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Persistence\\IGeneralCrudService.cs",
-              "RelativeDocumentMoniker": "CRM.Application\\Persistence\\IGeneralCrudService.cs",
-              "ToolTip": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Persistence\\IGeneralCrudService.cs",
-              "RelativeToolTip": "CRM.Application\\Persistence\\IGeneralCrudService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T05:21:20.854Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OpportunityService.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Services\\OpportunityService.cs",
+              "RelativeDocumentMoniker": "CRM.Application\\Services\\OpportunityService.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Services\\OpportunityService.cs",
+              "RelativeToolTip": "CRM.Application\\Services\\OpportunityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:44:02.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGeneralCrudService.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Persistence\\IGeneralCrudService.cs",
+              "RelativeDocumentMoniker": "CRM.Application\\Persistence\\IGeneralCrudService.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\Persistence\\IGeneralCrudService.cs",
+              "RelativeToolTip": "CRM.Application\\Persistence\\IGeneralCrudService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T05:21:20.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LeadGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadGetDto.cs",
               "RelativeDocumentMoniker": "CRM.Application\\DTOs\\LeadDto\\LeadGetDto.cs",
-              "ToolTip": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadGetDto.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadGetDto.cs",
               "RelativeToolTip": "CRM.Application\\DTOs\\LeadDto\\LeadGetDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T05:17:53.85Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LeadCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadCreateDto.cs",
               "RelativeDocumentMoniker": "CRM.Application\\DTOs\\LeadDto\\LeadCreateDto.cs",
-              "ToolTip": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadCreateDto.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.Application\\DTOs\\LeadDto\\LeadCreateDto.cs",
               "RelativeToolTip": "CRM.Application\\DTOs\\LeadDto\\LeadCreateDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.API\\appsettings.json",
               "RelativeDocumentMoniker": "CRM.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Legion\\Desktop\\Customer-Relationship-Management-CRM-System\\CRM.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Internship\\Customer-Relationship-Management-CRM-System\\CRM.API\\appsettings.json",
               "RelativeToolTip": "CRM.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

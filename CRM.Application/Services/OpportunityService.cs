@@ -4,29 +4,53 @@ namespace CRM.Application.Services
 {
     public class OpportunityService : IGeneralCrudService<Opportunity, OpportunityCreateDto, OpportunityGetDto>
     {
-        public Task<OpportunityGetDto> AddAsync(OpportunityCreateDto createDto)
+        private readonly CRMDbContext _dbContext;
+        private readonly IMapper _mapper;
+        public async Task<OpportunityGetDto> AddAsync(OpportunityCreateDto createDto)
         {
-            throw new NotImplementedException();
+            var opportunity = _mapper.Map<Opportunity>(createDto);
+            _dbContext.Opportunities.Add(opportunity);
+            await _dbContext.SaveChangesAsync();
+            return _mapper.Map<OpportunityGetDto>(opportunity);
         }
 
-        public Task DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            var opportunity = await _dbContext.Opportunities.FindAsync(id);
+            if (opportunity == null)
+            {
+                throw new Exception($"Opportunity with Id: {id} was not found");
+            }
+            _dbContext.Opportunities.Remove(opportunity);
+            await _dbContext.SaveChangesAsync();
         }
 
-        public Task<IEnumerable<OpportunityGetDto>> GetAllAsync()
+        public async Task<IEnumerable<OpportunityGetDto>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            var opportunities = await _dbContext.Opportunities.ToListAsync();
+            return _mapper.Map<IEnumerable<OpportunityGetDto>>(opportunities);
         }
 
-        public Task<OpportunityGetDto> GetByIdAsync(int id)
+        public async Task<OpportunityGetDto> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var opportunity = await _dbContext.Opportunities.FindAsync(id);
+            if (opportunity == null)
+            {
+                throw new Exception($"Opportunity with Id: {id} was not found");
+            }
+            return _mapper.Map<OpportunityGetDto>(opportunity);
         }
 
-        public Task<OpportunityGetDto> UpdateAsync(int id, OpportunityCreateDto updateDto)
+        public async Task<OpportunityGetDto> UpdateAsync(int id, OpportunityCreateDto updateDto)
         {
-            throw new NotImplementedException();
+            var opportunity = await _dbContext.Opportunities.FindAsync(id);
+            if (opportunity == null)
+            {
+                throw new Exception($"Opportunity with Id: {id} was not found");
+            }
+            _mapper.Map(updateDto, opportunity);
+            await _dbContext.SaveChangesAsync();
+            return _mapper.Map<OpportunityGetDto>(opportunity);
         }
     }
 }
